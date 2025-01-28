@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1732514820 source:e:\3-2\computer graphics lab\animation\basicanimation.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	<conio.h>
+
+1266076214 h:\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
